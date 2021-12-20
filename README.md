@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sudami0011
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Discord Bot Coding (Python .py    
+- 📫 How to reach me Nacht.Sudami@outlook.com
